@@ -1,0 +1,12 @@
+.timer__input {
+    margin-right: 10px;
+}
+.timer__button {
+    cursor: pointer;
+}
+.timer {
+    transform: translate(5px, 20px);
+}
+span {
+    font-size: 20px;
+}
